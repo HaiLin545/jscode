@@ -40,3 +40,6 @@ Function.prototype.myApply = (context) => {
     }
 }
 
+
+
+??
